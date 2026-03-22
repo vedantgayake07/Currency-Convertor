@@ -5,6 +5,12 @@ body
     flex-direction: column;
 }
 
+p
+{
+    font-size  : 20px;
+    color : violet;
+}
+
 #container
 {
     background-color: aqua;
